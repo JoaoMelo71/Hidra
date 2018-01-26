@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>Lista IPTV</title>
-<thumbnail></thumbnail>
+<title>Youtube</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a8/YouTube_Square.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JoaoMelo71/Hidra/master/test1.xml</externallink>
@@ -10,8 +10,8 @@
  
 <item>
 <title>Lista Magellan</title>
-<thumbnail></thumbnail>
-<fanart>https://4.bp.blogspot.com/-UGWFf-dys_o/WFk_OHV7BII/AAAAAAAAUtQ/7OJec-Fb9WkC2AyQ-dL6doFMe5ShARYtwCLcB/s1600/Magellan%2BAddon%2BKodi%2B2.png</fanart>
+<thumbnail>https://4.bp.blogspot.com/-UGWFf-dys_o/WFk_OHV7BII/AAAAAAAAUtQ/7OJec-Fb9WkC2AyQ-dL6doFMe5ShARYtwCLcB/s1600/Magellan%2BAddon%2BKodi%2B2.png</thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>http://pastebin.com/raw/wL2Jvyh8</externallink>
 </item>
