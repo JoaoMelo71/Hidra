@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>Youtube</title>
+<title>Lista IPTV</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -17,10 +17,10 @@
 </item>
  
 <item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Lista IPTV Adelino</title>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/12/a1/30/12a13088-15b3-a9b8-b92e-295d0b94e998/source/256x256bb.jpg</thumbnail>
+<fanart>http://eskipaper.com/images/railway-wallpaper-3.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/JoaoMelo71/Hidra/master/tv_channels_adelino.m3u</externallink>
 </item>
  
