@@ -11,7 +11,7 @@
  <item>    
 <title>[COLOR white][I][B][COLOR lime]»»[/COLOR] ADDON Followmy [/I][/B][/COLOR]</title>
 <link>Iku</link>
-<externallink>https://raw.githubusercontent.com/JoaoMelo71/Hidra/master/default.py</externallink>
+<jsonrpc>plugin://plugin.video.rtpplay</jsonrpc>
 <thumbnail>https://www.shareicon.net/data/2015/04/25/28568_favorites_512x512.png</thumbnail>
 <fanart>https://i-cdn.phonearena.com/images/articles/195117-image/Windows-10-wallpapers-9.jpg</fanart>
 </item>
