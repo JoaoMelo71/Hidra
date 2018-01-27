@@ -8,6 +8,14 @@
 <externallink>https://raw.githubusercontent.com/JoaoMelo71/Hidra/master/test1.xml</externallink>
 </item>
  
+ <item>    
+<title>[COLOR white][I][B][COLOR lime]»»[/COLOR] ADDON Followmy [/I][/B][/COLOR]</title>
+<link>Iku</link>
+<jsonrpc>plugin.video.followmy</jsonrpc>
+<thumbnail>https://www.shareicon.net/data/2015/04/25/28568_favorites_512x512.png</thumbnail>
+<fanart>https://i-cdn.phonearena.com/images/articles/195117-image/Windows-10-wallpapers-9.jpg</fanart>
+</item>
+ 
 <item>
 <title>Lista Magellan</title>
 <thumbnail>https://4.bp.blogspot.com/-UGWFf-dys_o/WFk_OHV7BII/AAAAAAAAUtQ/7OJec-Fb9WkC2AyQ-dL6doFMe5ShARYtwCLcB/s1600/Magellan%2BAddon%2BKodi%2B2.png</thumbnail>
