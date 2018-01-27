@@ -9,8 +9,8 @@
 </item>
  
 <item>
-<title>Superpop 3</title>        
-<link>plugin://plugin.video.youtube/channel/UClgc4Mxhb0_Ap8V3pMUcBOg</link>
+<title>Superpop</title>        
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=A_1-BvcTWFc</link>
 <thumbnail>https://i.ytimg.com/vi/WaucCoyHfDE/hqdefault.jpg</thumbnail>
 <fanart>https://qzprod.files.wordpress.com/2018/01/youtube-tv-1.jpg</fanart>
 </item>
