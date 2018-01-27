@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1, GR * Word of God (http://www.wordofgod.gr)
+plugin://plugin.video.youtube/play/?video_id=A_1-BvcTWFc
+
+#EXTINF:-1, GR * Word of God (http://www.wordofgod.gr)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=A_1-BvcTWFc
+
+#EXTINF:-1, GR * Word
+plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=PL5DD831FDCC7004A1
+
+#EXTINF:-1,War for the Planet of the Apes
+http://iptvtugapt.site:8080/movie/adelino/adelino/8530.mp4
