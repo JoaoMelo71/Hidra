@@ -1,9 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (USA)
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Mexico)
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Spain)
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+
+#EXTINF:-1, MIAMI TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
 #EXTINF:0, Miami Tv HD
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
-#EXTINF:0, Miami Tv HD op 2
+#EXTINF:0, Miami Tv HD Espanha
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/chunklist_w2064215587_b1896000.m3u8
 
 #EXTINF:-1,ID Fashion
