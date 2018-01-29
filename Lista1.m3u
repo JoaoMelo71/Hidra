@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0, Miami Tv HD
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:0, Miami Tv HD op 2
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/chunklist_w2064215587_b1896000.m3u8
+
 #EXTINF:-1,ID Fashion
 http://95.67.8.22/hls/idfashion/index.m3u8
 
