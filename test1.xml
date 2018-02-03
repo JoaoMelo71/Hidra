@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<item>
-<title>Superpop - 15/11/2017 - Estética</title>        
-<urlsolve>https://www.youtube.com/watch?v=WaucCoyHfDE</urlsolve>
-<thumbnail>https://i.ytimg.com/vi/WaucCoyHfDE/hqdefault.jpg</thumbnail>
-<fanart>https://qzprod.files.wordpress.com/2018/01/youtube-tv-1.jpg</fanart>
-</item>
+<layouttype>thumbnail</layouttype>
 
 <item>
 <title>Whindersson Nunes</title>
 <utube>UC3KQ5GWANYF8lChqjZpXsQw</utube>
 <thumbnail>http://topyoutubers.net/images/whinderssonnunes/CZGMT4eWQAALE6a.png</thumbnail>
 <fanart>https://www.whindersson.com.br/img/bg28.jpg</fanart>
+</item>
+
+<item>
+<title>Bumba na Fofinha</title>
+<utube>UCpffV46kIAQVVBp-htc1iUw</utube>
+<thumbnail>https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6452bd44423027.5812185181774.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-RMNISco1fRA/AAAAAAAAAAI/AAAAAAAAAAA/xDMjB1Oh820/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 </item>
