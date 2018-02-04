@@ -1,54 +1,60 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (USA)
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Mexico)
-http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Spain)
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
-
-#EXTINF:-1, MIAMI TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-
-#EXTINF:0, Miami Tv HD
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-
-#EXTINF:0, Miami Tv HD Espanha
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/chunklist_w2064215587_b1896000.m3u8
-
-#EXTINF:-1,ID Fashion
-http://95.67.8.22/hls/idfashion/index.m3u8
-
-#EXTINF:-1,HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:-1,Fashion Tv
-http://80.94.54.40/liveedge/tvfashion/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" group-title="ARGENTINA",America [NoKodi]
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Argentina★ █ ▇ ▆ ▅ ▄
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" group-title="ARGENTINA",America (720)
 http://ar.watcha.live/ch3/hi.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png" group-title="ARGENTINA",Canal 13 [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png" group-title="ARGENTINA",Canal 13 (720)
 http://ar.watcha.live/ch7/hi.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png" group-title="SPAIN",Telecinco
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LATINO",Univision (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LATINO",Univision (Opt-1(720))
 https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LATINO",Univision (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LATINO",Univision (Opt-2(SD))
 http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg" group-title="LATINO",Telemundo 51 Miami
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg" group-title="LATINO",Telemundo 51 Miami (SD)
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D
+
+
+
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Espanha★ █ ▇ ▆ ▅ ▄
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png" group-title="SPAIN",Telecinco (720)
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
+
+
+
+
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★Turkia★ █ ▇ ▆ ▅ ▄
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt_1(SD))
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-2(SD))
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
 
 
+
+
+
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★Erotico★ █ ▇ ▆ ▅ ▄
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (USA 1080)
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami Tv (USA 1080)
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Mexico 720)
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Spain 720)
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Spain 720)
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/chunklist_w2064215587_b1896000.m3u8
+
+#EXTINF:-1 tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/a05b3dfe/4e8ed074_sm.png" group-title="IPTV",ID Fashion (1080)
+http://95.67.8.22/hls/idfashion/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/Fashion-One-HD-670x300.jpg" group-title="IPTV",HD Fashion (1080)
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
