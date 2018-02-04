@@ -58,3 +58,48 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/Fashion-One-HD-670x300.jpg" group-title="IPTV",HD Fashion (1080)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+
+
+#EXTINF:-1,PT: Playboy
+http://teotv.ddns.net:8000/live/marcelino/marcelino/187.ts
+#EXTINF:-1,PT: Any Sex
+http://teotv.ddns.net:8000/live/marcelino/marcelino/3470.ts
+#EXTINF:-1,PT: Hot
+http://teotv.ddns.net:8000/live/marcelino/marcelino/183.ts
+#EXTINF:-1,PT: Hot Club 1
+http://teotv.ddns.net:8000/live/marcelino/marcelino/3477.ts
+#EXTINF:-1,PT: EroXXX
+http://teotv.ddns.net:8000/live/marcelino/marcelino/3472.ts
+#EXTINF:-1,PT: PassieXXX
+http://teotv.ddns.net:8000/live/marcelino/marcelino/3474.ts
+#EXTINF:-1,PT: SCT XXX
+http://teotv.ddns.net:8000/live/marcelino/marcelino/3475.ts
+#EXTINF:-1,PT: XXX1
+http://teotv.ddns.net:8000/live/marcelino/marcelino/3476.ts
+#EXTINF:-1,PT: Super One HD
+http://teotv.ddns.net:8000/live/marcelino/marcelino/3478.ts
+#EXTINF:-1,PT: LA France a Poil
+http://teotv.ddns.net:8000/live/marcelino/marcelino/3473.ts
+#EXTINF:-1,PT: Dorcel TV
+http://teotv.ddns.net:8000/live/marcelino/marcelino/3471.ts
+#EXTINF:-1,PT: Venus
+http://teotv.ddns.net:8000/live/marcelino/marcelino/189.ts
+#EXTINF:-1,PT: Redlight
+http://teotv.ddns.net:8000/live/marcelino/marcelino/188.ts
+#EXTINF:-1,PT: JasminTV
+http://teotv.ddns.net:8000/live/marcelino/marcelino/185.ts
+#EXTINF:-1,PT: Hustler HD
+http://teotv.ddns.net:8000/live/marcelino/marcelino/184.ts
+#EXTINF:-1,PT: Penthouse TV
+http://teotv.ddns.net:8000/live/marcelino/marcelino/186.ts
+
+
+#EXTINF:-1,Playboy TV (PT)(SD)
+http://185.152.66.56:25461/live/toby1/toby1/36422.ts?token=TRpcWBJfQA5AXgkHUgBVVFcABAxcAFMDUFUBAlxWXVZXCFAKAlNSVVZEHBZFTEIDUAxuUF1ACAUAAldRFEBMQFNKa1AFFVgWUFUDBg8aHERFCFxcG1gDAwcBUlsLVgsCGhpEUAUVWBZQXwUDDhocRFQZRVxLDFNaaVIAFVEBXBEMVkFVDRtAWww5VFFbWV4CE1sTCRtOEF9FRkdZGixWQBZ7W1QUWQtXAwVfUUUYY0hwTxMVGwBbQkRXEQYaWBsCAAkMG00VAVsXCERGTxoKRGE1ExUbB0pCU1gWClcMGwkUTEcbTRULRz0UVUdCSlUHXARDGwNAAhQaFAgCQD1aXFhWUVoVXg1aEUQKFgcaHERcDl9QTQ1AaUZfAUECQAsLDwoMGxw=
+
+#EXTINF:-1,Venus TV (PT)(SD)
+http://185.152.66.56:25461/live/toby1/toby1/36382.ts?token=TRpcWBJfQA5AX1UMVw9RAgECAwwOB1YOAldcVVkGW1ECWwZbWFUDAwNEHBZFTEIDUAxuUF1ACAUABV1RFEBMQFNKa1AFFVgWUFUDBg8aHERFCFxcG1gDAwcBUlsLVAgKGhpEUAUVWBZTVwMBBBocRFQZRVxLDFNaaVIAFVEBXBEMVkFVDRtAWww5VFFbWV4CE1sTCRtOEF9FRkdZGixWQBZ7W1QUWQtXAwVfUUUYY0hwTxMVGwBbQkRXEQYaWBsBBA8NG00VAVsXCERGTxoKRGE1ExUbB0pCU1gWClcMGwkUTEcbTRULRz0UVUdCSlUHXARDGwNAAhQaFAgCQD1aXFhWUVoVXg1aEUQKFgcaHERcDl9QTQ1AaUZfAUECQAsLAQ0EGxw=
+
+#EXTINF:-1,Hot TV (PT)(SD)
+http://185.152.66.56:25461/live/toby1/toby1/36435.ts?token=TRpcWBJfQA5AX1ZVAA0DAFJWBgENVVAFBVNcUwlbXwVQW1BcVVFbVVdEHBZFTEIDUAxuUF1ACAUAAlZWFEBMQFNKa1AFFVgWUFUDBg8aHERFCFxcG1gDAwcBUlsLVQ8GGhpEUAUVWBZbVAcCFBQSA0kVVEtXA15pUlMTClsHGwlYTVhVTRUNWj0CVVlXVlREC0MBGxVAW0VGFF9Bdg1KE3VXWUwPXgFVAQlVRxZrHicfQx0bWwtGRFdCAEECQAAHBxoYGwJYF1oWFEkWDBpgMhNNE1xBFldYRV8KDRpYG0dFGhgbCEQ9RgcVREZTWV0DQ0MLGwlAHhRbVx08Ww1XXVNbQFAOWREWWEQBFhoaXQlfCEVWSz1CX1IUX0EKWgAKARpJ
