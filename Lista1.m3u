@@ -1,8 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Brasil★ █ ▇ ▆ ▅ ▄
+http://
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Tvescolalogo2014.jpg" tvg-id=" group-title="BRASIL",TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Argentina★ █ ▇ ▆ ▅ ▄
 http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" group-title="ARGENTINA",America (720)
+#EXTINF:-1 tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" group-title="ARGENTINA",America (720)
 http://ar.watcha.live/ch3/hi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png" group-title="ARGENTINA",Canal 13 (720)
