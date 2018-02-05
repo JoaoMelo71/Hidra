@@ -5,6 +5,21 @@ http://
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Tvescolalogo2014.jpg" tvg-id=" group-title="BRASIL",TV ESCOLA (720)
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" tvg-id=" group-title="BRASIL",SBT (720)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" tvg-id=" group-title="BRASIL",REDE TV! (SD)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" tvg-id=" group-title="BRASIL",BAND (SD)
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png" tvg-id=" group-title="BRASIL",RECORD SP (SD)
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
+
+
+
+
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Argentina★ █ ▇ ▆ ▅ ▄
 http://
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" group-title="ARGENTINA",America (720)
