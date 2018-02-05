@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.cnb.pt/fotos/editor2/2014/noticias/tsf2.jpg" group-title=" ",TSF
+#EXTINF:-1 tvg-logo="https://www.tsf.pt/common/images/logo-tsf.png" group-title=" ",TSF
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_38r59q5ou-K1mBEGlkZai9W4Ux-k19fH2XBLfumAfs6jGvtrZRtb53j4" group-title=" ",RADIO COMERCIAL
+#EXTINF:-1 tvg-logo="http://pplware.sapo.pt/wp-content/images2011/imagem_radio_comercial00_small.jpg" group-title=" ",RADIO COMERCIAL
 http://mcrscast.mcr.iol.pt/comercial.mp3
 
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Esta%C3%A7%C3%A3o-Orbital-101.9-FM-R%C3%A1dio.png" group-title=" ",ORBITAL
+#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/09/Radio-Orbital.jpg" group-title=" ",ORBITAL
 http://195.23.85.126:8401/stream/1/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQULSwdpP1bwOa1xvZBn4_-UDsB5H2NWSj9ngDAHKenAlkLIP7Fw5rfAXJH" group-title=" ",ANTENA 1
+#EXTINF:-1 tvg-logo="http://www.comunicacaomaiseficaz.com/wp-content/uploads/2012/04/Antena-1-Madeira.jpg" group-title=" ",ANTENA 1
 http://radiocast.rtp.pt/antena180a.mp3
 
-#EXTINF:-1 tvg-logo="http://img0.rtp.pt/icm/thumb/phpThumb.php?src=/icm_antena2/images/1a/1a6fdbf23920abbc1937dde2ea33e49f&w=1200&sx=419&sy=28&sw=324&sh=178&q=75&w=800&q=100" group-title=" ",ANTENA 2
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/antena2.jpg" group-title=" ",ANTENA 2
 http://radiocast.rtp.pt/antena280a.mp3
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3e8d6f7c528de37d226685bea03997fc.jpg" group-title=" ",AMALIA
