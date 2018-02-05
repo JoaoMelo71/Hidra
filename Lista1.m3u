@@ -16,25 +16,42 @@ http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/un
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg" group-title="LATINO",Telemundo 51 Miami (SD)
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
-#EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Espanha★ █ ▇ ▆ ▅ ▄
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png" group-title="IPTV",Telecinco (720)
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
 
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Espanha★ █ ▇ ▆ ▅ ▄
 #EXTINF:-1, TVE La1 (1080)
 http://clientportal.link:8080/live/5WpbyxwTaa/zsGAkwb4LJ/12704.ts
 
 #EXTINF:-1, TVE La1 (SD)
-http://185.93.3.45:443/live/5WpbyxwTaa/zsGAkwb4LJ/9404.ts?token=SxoOVkYKEF4WAFBUUQJVUwVfUlYFVgBQAFdRVAEFBApTDlVSUVQHUQ0XGkEVQRYGAAtuCFdHCg9RUVAbEhZCXEJnD1MXWBBVAQwAUVIXSEEVD1wEEV8BA1RWUw8IVQkPHBoWXlFACEYGBwJaXhdIQQQeRQRBC1FaOgUBQVkAVBsKVhNbWU4QC1pqUgYLVAoHQ1wTURFJEl8WEUYNEi1eShB7CVpADFsHVVZZBhUVN00gSBNNEQdZQhcAEFISWRMKAAxXFRlAUQtBW0IRHxdeQTEyE00RAEhCAA8XXl8NEwMSTBUVGUBbF2tHUxASRwECDANDQwlHARRJQwlWSDxSVl5WA1RBC10KRxcMQVcXSEEMCV8IRwpCaRUIABUKQQgKBQxESg==
+http://clientportal.link:8080/live/5WpbyxwTaa/zsGAkwb4LJ/9404.ts
 
-#EXTINF:-1, TVE La2 (1080)
-http://clientportal.link:8080/live/5WpbyxwTaa/zsGAkwb4LJ/12704.ts
+#EXTINF:-1, TVE La2 (SD)
+http://clientportal.link:8080/live/5WpbyxwTaa/zsGAkwb4LJ/9405.ts
+
+#EXTINF:-1, La Sexta (1080)
+http://clientportal.link:8080/live/5WpbyxwTaa/zsGAkwb4LJ/12703.ts
+
+#EXTINF:-1, La Sexta (SD)
+http://clientportal.link:8080/live/5WpbyxwTaa/zsGAkwb4LJ/9406.ts
+
+#EXTINF:-1, Antena 3 (720)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1, Antena 3 (SD)
+http://petu20.pedromo.me/live/antena3/index.m3u8?token=eLna8oPd_muUcWFscVFyUQ&expires=1517877039
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",Telecinco (720)
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
+
+#EXTINF:-1, BeMad (SD)
+http://copo7.telesport.pw/live/bemad/index.m3u8?token=RxS8V55eUV9G1lXLcxgK3A&expires=1517876557
+
 
 
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Turquia★ █ ▇ ▆ ▅ ▄
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="IPTV",Kanal D (Opt_1(SD))
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png",Kanal D (Opt_1(SD))
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="IPTV",Kanal D (Opt-2(SD))
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png",Kanal D (Opt-2(SD))
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
 
 
