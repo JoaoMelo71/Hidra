@@ -1,48 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.cnb.pt/fotos/editor2/2014/noticias/tsf2.jpg" group-title=" ",TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9nU6mFl.png",RADIOS
-http://0.0.0.1234
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS59NpbGzRg280ar7SK33x01-uUX6rLSXWH8_3qE7RfF3JPOLZi3X4f2AAKsQ" group-title=" ",94FM (Copyright © 2017 by TeamBlue)
-http://195.8.58.150:35022/stream/1/
-
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3e8d6f7c528de37d226685bea03997fc.jpg" group-title=" ",AMALIA (Copyright © 2017 by TeamBlue)
-http://stream.radio.com.pt:9496/stream
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQULSwdpP1bwOa1xvZBn4_-UDsB5H2NWSj9ngDAHKenAlkLIP7Fw5rfAXJH" group-title=" ",ANTENA 1 (Copyright © 2017 by TeamBlue)
-http://radiocast.rtp.pt/antena180a.mp3
-
-#EXTINF:-1 tvg-logo="http://img0.rtp.pt/icm/thumb/phpThumb.php?src=/icm_antena2/images/1a/1a6fdbf23920abbc1937dde2ea33e49f&w=1200&sx=419&sy=28&sw=324&sh=178&q=75&w=800&q=100" group-title=" ",ANTENA 2 (Copyright © 2017 by TeamBlue)
-http://radiocast.rtp.pt/antena280a.mp3
-
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/marginal.jpg" group-title=" ",MARGINAL (Copyright © 2017 by TeamBlue)
-http://centova.radios.pt:8499/stream/1/
-
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/marginal.jpg" group-title=" ",MARGINAL (Copyright © 2017 by TeamBlue)
-http://centova.radios.pt:8499/stream/1/
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3wnQ3sm7BQqVL3BBmkiklsSGXIh6ULR6g8upbgCavZULdQnJYQhWMlFuc" group-title=" ",NOVA ERA (Copyright © 2017 by TeamBlue)
-http://centova.radios.pt:9478/stream/1/
-
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Esta%C3%A7%C3%A3o-Orbital-101.9-FM-R%C3%A1dio.png" group-title=" ",ORBITAL (Copyright © 2017 by TeamBlue)
-http://195.23.85.126:8401/stream/1/
-
-#EXTINF:-1 tvg-logo="http://www.radioplacard.pt/files/32/781.png" group-title=" ",PLACARD (Copyright © 2017 by TeamBlue)
-http://213.239.218.99:7098/;?1475760096281.aac
-
-#EXTINF:-1 tvg-logo="http://radioportugal.net/sites/default/files/radio/logos/logo-radio-radar_0.jpg" group-title=" ",RADAR (Copyright © 2017 by TeamBlue)
-http://centova.radios.pt:8497/stream/1/
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_38r59q5ou-K1mBEGlkZai9W4Ux-k19fH2XBLfumAfs6jGvtrZRtb53j4" group-title=" ",RADIO COMERCIAL (Copyright © 2017 by TeamBlue)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_38r59q5ou-K1mBEGlkZai9W4Ux-k19fH2XBLfumAfs6jGvtrZRtb53j4" group-title=" ",RADIO COMERCIAL
 http://mcrscast.mcr.iol.pt/comercial.mp3
 
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84111q.png" group-title=" ",RADIO FESTIVAL (Copyright © 2017 by TeamBlue)
-http://centova.radios.pt:9520/stream/1/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Radio_Nova_logo.png" group-title=" ",RADIO NOVA (Copyright © 2017 by TeamBlue)
-http://centova.radios.pt:9528/stream/1/
-#EXTINF:-1 tvg-logo="http://cdn.sintonizate.net/r/68406.png" group-title=" ",RADIO ONDA VIVA (Copyright © 2017 by TeamBlue)
-http://centova.radios.pt:9524/stream
-#EXTINF:-1 tvg-logo="https://www.superfm.com/wp-content/uploads/2016/05/1392050_10151744453170918_1253207366_n-300x300.jpg" group-title=" ",SUPER FM (104.8) (Copyright © 2017 by TeamBlue)
-http://94.23.76.235:9956/;
-#EXTINF:-1 tvg-logo="http://www.cnb.pt/fotos/editor2/2014/noticias/tsf2.jpg" group-title=" ",TSF (Copyright © 2017 by TeamBlue)
-http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Esta%C3%A7%C3%A3o-Orbital-101.9-FM-R%C3%A1dio.png" group-title=" ",ORBITAL
+http://195.23.85.126:8401/stream/1/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQULSwdpP1bwOa1xvZBn4_-UDsB5H2NWSj9ngDAHKenAlkLIP7Fw5rfAXJH" group-title=" ",ANTENA 1
+http://radiocast.rtp.pt/antena180a.mp3
+
+#EXTINF:-1 tvg-logo="http://img0.rtp.pt/icm/thumb/phpThumb.php?src=/icm_antena2/images/1a/1a6fdbf23920abbc1937dde2ea33e49f&w=1200&sx=419&sy=28&sw=324&sh=178&q=75&w=800&q=100" group-title=" ",ANTENA 2
+http://radiocast.rtp.pt/antena280a.mp3
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3e8d6f7c528de37d226685bea03997fc.jpg" group-title=" ",AMALIA
+http://stream.radio.com.pt:9496/stream
