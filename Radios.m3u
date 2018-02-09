@@ -1,19 +1,41 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.tsf.pt/common/images/logo-tsf.png" group-title=" ",TSF
-http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTINF:-1 tvg-logo="http://pplware.sapo.pt/wp-content/images2011/imagem_radio_comercial00_small.jpg" group-title=" ",RADIO COMERCIAL
-http://mcrscast.mcr.iol.pt/comercial.mp3
+<item>  
+<title>[COLOR orange]TSF[/COLOR]</title>  
+<link>http://tsfdirecto.tsf.pt/tsfdirecto.mp3</link>
+<thumbnail>https://www.tsf.pt/common/images/logo-tsf.png</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/09/Radio-Orbital.jpg" group-title=" ",ORBITAL
-http://195.23.85.126:8401/stream/1/
+<item>  
+<title>[COLOR orange]RADIO COMERCIAL[/COLOR]</title>  
+<link>http://mcrscast.mcr.iol.pt/comercial.mp3</link>
+<thumbnail>http://pplware.sapo.pt/wp-content/images2011/imagem_radio_comercial00_small.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.comunicacaomaiseficaz.com/wp-content/uploads/2012/04/Antena-1-Madeira.jpg" group-title=" ",ANTENA 1
-http://radiocast.rtp.pt/antena180a.mp3
+<item>  
+<title>[COLOR orange]Radio Comercial[/COLOR]</title>  
+<link>rtmp://mcrwowza4.mcr.iol.pt/comerciallc/ playpath=comerciallc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/comercial/
+</link>
+<thumbnail>http://pplware.sapo.pt/wp-content/images2011/imagem_radio_comercial00_small.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/antena2.jpg" group-title=" ",ANTENA 2
-http://radiocast.rtp.pt/antena280a.mp3
+<item>  
+<title>[COLOR orange]Orbital[/COLOR]</title>  
+<link>http://195.23.85.126:8401/stream/1/</link>
+<thumbnail>http://www.liveonlineradio.net/wp-content/uploads/2013/09/Radio-Orbital.jpg</thumbnail>
+</item>
 
+<item>  
+<title>[COLOR orange]ANTENA 1[/COLOR]</title>  
+<link>http://radiocast.rtp.pt/antena180a.mp3</link>
+<thumbnail>http://www.comunicacaomaiseficaz.com/wp-content/uploads/2012/04/Antena-1-Madeira.jpg</thumbnail>
+</item>
+
+<item>  
+<title>[COLOR orange]ANTENA 2[/COLOR]</title>  
+<link>http://radiocast.rtp.pt/antena280a.mp3</link>
+<thumbnail>http://radiosdeportugal.com/wp-content/uploads/2007/07/antena2.jpg</thumbnail>
+</item>
 
 <item>  
 <title>[COLOR orange]Radio M80[/COLOR]</title>  
@@ -21,14 +43,32 @@ http://radiocast.rtp.pt/antena280a.mp3
 <thumbnail>http://radiosdeportugal.com/wp-content/uploads/2007/11/A-M80-e-a-Radio-Oficial-e-Exclusiva-deste-Carnaval-2009-com-ABBA-GOLD-a-21-de-Fev-no-Pav-Atlantico.jpg</thumbnail>
 </item>
 
+<item>  
+<title>[COLOR orange]RFM[/COLOR]</title>  
+<link>http://19553.live.streamtheworld.com/RFM_SC</link>
+<thumbnail>https://espalhafactos.com/wp-content/uploads/2013/10/rfm1.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/10/rfm1.jpg" group-title=" ",RFM
-http://19553.live.streamtheworld.com/RFM_SC
+<item>  
+<title>[COLOR orange]Radio M80[/COLOR]</title>  
+<link>rtmp://195.23.102.196/m80lc/ playpath=m80lc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/regiao/lisboa/#m80-104-3-fm-lisboa</link>
+<thumbnail>http://radiosdeportugal.com/wp-content/uploads/2007/11/A-M80-e-a-Radio-Oficial-e-Exclusiva-deste-Carnaval-2009-com-ABBA-GOLD-a-21-de-Fev-no-Pav-Atlantico.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3e8d6f7c528de37d226685bea03997fc.jpg" group-title=" ",AMALIA
-http://stream.radio.com.pt:9496/stream
+<item>  
+<title>[COLOR orange]Radio Amalia[/COLOR]</title>  
+<link>http://centova.radios.pt:9496/;</link>
+<thumbnail>https://lh6.googleusercontent.com/-F0ORQOxz2Cc/UUXwmpGieCI/AAAAAAAABfM/31C5BIHEEYc/w800-h800/radio.png</thumbnail>
+</item>
 
+<item>  
+<title>[COLOR orange]Radio Amalia[/COLOR]</title>  
+<link>http://stream.radio.com.pt:9496/stream</link>
+<thumbnail>https://lh6.googleusercontent.com/-F0ORQOxz2Cc/UUXwmpGieCI/AAAAAAAABfM/31C5BIHEEYc/w800-h800/radio.png</thumbnail>
+</item>
 
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Gm4_YXQVPwc/UZps1UkbQHI/AAAAAAABTqE/mGoXA6wnnGg/s1600/radio%2Bportalegre.jpg" group-title=" ",Radio Portalegre
-http://centova.radios.pt:9492/:
+<item>  
+<title>[COLOR orange]Radio Portalegre[/COLOR]</title>  
+<link>http://centova.radios.pt:9492/:</link>
+<thumbnail>http://2.bp.blogspot.com/-Gm4_YXQVPwc/UZps1UkbQHI/AAAAAAABTqE/mGoXA6wnnGg/s1600/radio%2Bportalegre.jpg</thumbnail>
+</item>
