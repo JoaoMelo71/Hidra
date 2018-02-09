@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>  
-<title>[COLOR orange]TSF[/COLOR]</title>  
+<title>[COLOR orange]TSF Radio Jornal[/COLOR]</title>  
 <link>http://tsfdirecto.tsf.pt/tsfdirecto.mp3</link>
 <thumbnail>https://www.tsf.pt/common/images/logo-tsf.png</thumbnail>
 </item>
 
 <item>  
-<title>[COLOR orange]RADIO COMERCIAL[/COLOR]</title>  
+<title>[COLOR orange]Radio Comercial[/COLOR]</title>  
 <link>http://mcrscast.mcr.iol.pt/comercial.mp3</link>
 <thumbnail>http://pplware.sapo.pt/wp-content/images2011/imagem_radio_comercial00_small.jpg</thumbnail>
 </item>
@@ -26,13 +26,13 @@
 </item>
 
 <item>  
-<title>[COLOR orange]ANTENA 1[/COLOR]</title>  
+<title>[COLOR orange]Antena 1[/COLOR]</title>  
 <link>http://radiocast.rtp.pt/antena180a.mp3</link>
 <thumbnail>http://www.comunicacaomaiseficaz.com/wp-content/uploads/2012/04/Antena-1-Madeira.jpg</thumbnail>
 </item>
 
 <item>  
-<title>[COLOR orange]ANTENA 2[/COLOR]</title>  
+<title>[COLOR orange]Antena 2[/COLOR]</title>  
 <link>http://radiocast.rtp.pt/antena280a.mp3</link>
 <thumbnail>http://radiosdeportugal.com/wp-content/uploads/2007/07/antena2.jpg</thumbnail>
 </item>
