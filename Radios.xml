@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>  
-<title>[COLOR orange]TSF Radio Jornal[/COLOR]</title>  
+<title>[COLOR orange]TSF Rádio Jornal[/COLOR]</title>  
 <link>http://tsfdirecto.tsf.pt/tsfdirecto.mp3</link>
 <thumbnail>https://www.tsf.pt/common/images/logo-tsf.png</thumbnail>
 </item>
 
 <item>  
-<title>[COLOR orange]Radio Comercial[/COLOR]</title>  
+<title>[COLOR orange]Rádio Comercial[/COLOR]</title>  
 <link>http://mcrscast.mcr.iol.pt/comercial.mp3</link>
 <thumbnail>http://pplware.sapo.pt/wp-content/images2011/imagem_radio_comercial00_small.jpg</thumbnail>
 </item>
 
 <item>  
-<title>[COLOR orange]Radio Comercial[/COLOR]</title>  
+<title>[COLOR orange]Rádio Comercial[/COLOR]</title>  
 <link>rtmp://mcrwowza4.mcr.iol.pt/comerciallc/ playpath=comerciallc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/comercial/
 </link>
 <thumbnail>http://pplware.sapo.pt/wp-content/images2011/imagem_radio_comercial00_small.jpg</thumbnail>
 </item>
 
 <item>  
-<title>[COLOR orange]Orbital[/COLOR]</title>  
+<title>[COLOR orange]Rádio Orbital[/COLOR]</title>  
 <link>http://195.23.85.126:8401/stream/1/</link>
 <thumbnail>http://www.liveonlineradio.net/wp-content/uploads/2013/09/Radio-Orbital.jpg</thumbnail>
 </item>
@@ -38,9 +38,15 @@
 </item>
 
 <item>  
-<title>[COLOR orange]Radio M80[/COLOR]</title>  
-<link>rtmp://195.23.102.196/m80lc/ playpath=m80lc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/regiao/lisboa/#m80-104-3-fm-lisboa</link>
-<thumbnail>http://radiosdeportugal.com/wp-content/uploads/2007/11/A-M80-e-a-Radio-Oficial-e-Exclusiva-deste-Carnaval-2009-com-ABBA-GOLD-a-21-de-Fev-no-Pav-Atlantico.jpg</thumbnail>
+<title>[COLOR orange]Antena 3[/COLOR]</title>  
+<link>http://radiocast.rtp.pt/antena380a.mp3</link>
+<thumbnail>http://4.bp.blogspot.com/-FzUPYBDeCbE/TzAICCKxkVI/AAAAAAAAAdA/5mcZXOXzGyk/s1600/Antena-3-RGB-pos.-horiz.jpg</thumbnail>
+</item>
+
+<item>  
+<title>[COLOR orange]Rádio Renascença[/COLOR]</title>
+<link>http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC</link>
+<thumbnail>http://mediaserver2.rr.pt/newrr/itunes_140077122201.png</thumbnail>
 </item>
 
 <item>  
@@ -50,25 +56,49 @@
 </item>
 
 <item>  
-<title>[COLOR orange]Radio M80[/COLOR]</title>  
+<title>[COLOR orange]RFM 80[/COLOR]</title>  
+<link>http://19573.live.streamtheworld.com/GR80SRFM_SC</link>
+<thumbnail>http://static.radio.de/images/broadcasts/65/d8/18778/c175.png</thumbnail>
+</item>
+
+<item>  
+<title>[COLOR orange]Rádio M80[/COLOR]</title>  
 <link>rtmp://195.23.102.196/m80lc/ playpath=m80lc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/regiao/lisboa/#m80-104-3-fm-lisboa</link>
 <thumbnail>http://radiosdeportugal.com/wp-content/uploads/2007/11/A-M80-e-a-Radio-Oficial-e-Exclusiva-deste-Carnaval-2009-com-ABBA-GOLD-a-21-de-Fev-no-Pav-Atlantico.jpg</thumbnail>
 </item>
 
 <item>  
-<title>[COLOR orange]Radio Amalia[/COLOR]</title>  
+<title>[COLOR orange]Rádio Cidade[/COLOR]</title>  
+<link>http://mcrscast.mcr.iol.pt/cidadefm</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/44/Log%C3%B3tipo_da_r%C3%A1dio_Cidade.png</thumbnail>
+</item>
+
+<item>  
+<title>[COLOR orange]Rádio Amalia[/COLOR]</title>  
 <link>http://centova.radios.pt:9496/;</link>
 <thumbnail>https://lh6.googleusercontent.com/-F0ORQOxz2Cc/UUXwmpGieCI/AAAAAAAABfM/31C5BIHEEYc/w800-h800/radio.png</thumbnail>
 </item>
 
 <item>  
-<title>[COLOR orange]Radio Amalia[/COLOR]</title>  
+<title>[COLOR orange]Rádio Amalia[/COLOR]</title>  
 <link>http://stream.radio.com.pt:9496/stream</link>
 <thumbnail>https://lh6.googleusercontent.com/-F0ORQOxz2Cc/UUXwmpGieCI/AAAAAAAABfM/31C5BIHEEYc/w800-h800/radio.png</thumbnail>
 </item>
 
 <item>  
-<title>[COLOR orange]Radio Portalegre[/COLOR]</title>  
+<title>[COLOR orange]RDP Internaciona[/COLOR]</title>  
+<link>http://radiocast.rtp.pt/rdpint80a.mp3</link>
+<thumbnail>http://logowow.net/logos/c4iXCx54B.png</thumbnail>
+</item>
+
+<item>  
+<title>[COLOR orange]Rádio Portalegre[/COLOR]</title>  
 <link>http://centova.radios.pt:9492/:</link>
 <thumbnail>http://2.bp.blogspot.com/-Gm4_YXQVPwc/UZps1UkbQHI/AAAAAAABTqE/mGoXA6wnnGg/s1600/radio%2Bportalegre.jpg</thumbnail>
+</item>
+
+<item>  
+<title>[COLOR orange]Rádio Intereconomia[/COLOR]</title>
+<link>http://streaming-custom.enetres.net:8000/intereconomia.mp3</link>
+<thumbnail>https://yt3.ggpht.com/-FrXTEARxpok/AAAAAAAAAAI/AAAAAAAAAAA/OwUleyXKMWk/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
