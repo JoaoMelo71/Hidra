@@ -14,5 +14,21 @@ http://radiocast.rtp.pt/antena180a.mp3
 #EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/antena2.jpg" group-title=" ",ANTENA 2
 http://radiocast.rtp.pt/antena280a.mp3
 
+
+<item>  
+<title>[COLOR orange]Radio M80[/COLOR]</title>  
+<link>rtmp://195.23.102.196/m80lc/ playpath=m80lc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/regiao/lisboa/#m80-104-3-fm-lisboa</link>
+<thumbnail>http://radiosdeportugal.com/wp-content/uploads/2007/11/A-M80-e-a-Radio-Oficial-e-Exclusiva-deste-Carnaval-2009-com-ABBA-GOLD-a-21-de-Fev-no-Pav-Atlantico.jpg</thumbnail>
+</item>
+
+
+#EXTINF:-1 tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/10/rfm1.jpg" group-title=" ",RFM
+http://19553.live.streamtheworld.com/RFM_SC
+
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3e8d6f7c528de37d226685bea03997fc.jpg" group-title=" ",AMALIA
 http://stream.radio.com.pt:9496/stream
+
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Gm4_YXQVPwc/UZps1UkbQHI/AAAAAAABTqE/mGoXA6wnnGg/s1600/radio%2Bportalegre.jpg" group-title=" ",Radio Portalegre
+http://centova.radios.pt:9492/:
