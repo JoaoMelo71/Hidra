@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Desporto★ █ ▇ ▆ ▅ ▄
+http://pro.prox7.com:8080/live/demirci1/1demirci/8206.ts
+
+
+
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Brasil★ █ ▇ ▆ ▅ ▄
 http://pro.prox7.com:8080/live/demirci1/1demirci/8206.ts
 
@@ -19,6 +24,15 @@ http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png" tvg-id=" group-title="BRASIL",RECORD SP (SD)
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
 
+
+#EXTINF:-1,Globo RJ
+http://painel.iptvhot.com:25461/live/user1/user1/133.ts
+#EXTINF:-1,Globo SP
+http://painel.iptvhot.com:25461/live/user1/user1/131.ts
+#EXTINF:-1,BigBrotherBrasil 2018
+http://painel.iptvhot.com:25461/live/user1/user1/198.ts
+#EXTINF:-1,E! Entertainment Television
+http://painel.iptvhot.com:25461/live/user1/user1/159.ts
 
 
 
@@ -121,6 +135,10 @@ http://pro.prox7.com:8080/live/demirci1/1demirci/8206.ts
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★Videos Porno★ █ ▇ ▆ ▅ ▄
 http://pro.prox7.com:8080/live/demirci1/1demirci/8206.ts
 
+#EXTINF:-1,Sextreme
+http://painel.iptvhot.com:25461/live/user1/user1/52.ts
+#EXTINF:-1,Sexy Hot
+http://painel.iptvhot.com:25461/live/user1/user1/51.ts
 
 
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★Filmes Dobrado em "Brazileiro"★ █ ▇ ▆ ▅ ▄
