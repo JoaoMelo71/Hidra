@@ -26,6 +26,12 @@ http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
 
 
 
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Colombia★ █ ▇ ▆ ▅ ▄
+http://pro.prox7.com:8080/live/demirci1/1demirci/8206.ts
+
+#EXTINF:-1 tvg-logo="http://pm1.narvii.com/6260/11b60e2952ac153620d5fb8a4c1a9c65de41943c_00.jpg" group-title="Cine", Cinema +
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/cinemaplus-q4.php
+
 
 
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★TV Argentina★ █ ▇ ▆ ▅ ▄
