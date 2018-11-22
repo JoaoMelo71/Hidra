@@ -129,6 +129,24 @@ http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYPLrH",           ●•● +18 ●•● 
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+
+
+#EXTINF:-1,Playboy
+http://181.224.164.249:8000/play/a02n
+#EXTINF:-1,Sextreme
+http://181.224.164.249:8000/play/a02o
+#EXTINF:-1,Venus
+http://181.224.164.249:8000/play/a024
+
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="" group-title="ADULTOS",BRAZZERS
+http://54.39.52.89:25461/live/cablegratis/graciasporlapubli/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY BOY" tvg-logo="" group-title="ADULTOS",PLAYBOY
+http://54.39.52.89:25461/live/cablegratis/graciasporlapubli/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="ADULTOS",VENUS
+http://54.39.52.89:25461/live/cablegratis/graciasporlapubli/131.m3u8
+
 
 
 
