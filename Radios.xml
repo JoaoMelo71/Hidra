@@ -13,13 +13,6 @@
 </item>
 
 <item>  
-<title>[COLOR orange]Rádio Comercial[/COLOR]</title>  
-<link>rtmp://mcrwowza4.mcr.iol.pt/comerciallc/ playpath=comerciallc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/comercial/
-</link>
-<thumbnail>http://pplware.sapo.pt/wp-content/images2011/imagem_radio_comercial00_small.jpg</thumbnail>
-</item>
-
-<item>  
 <title>[COLOR orange]Rádio Orbital[/COLOR]</title>  
 <link>http://195.23.85.126:8401/stream/1/</link>
 <thumbnail>http://www.liveonlineradio.net/wp-content/uploads/2013/09/Radio-Orbital.jpg</thumbnail>
@@ -105,6 +98,6 @@
 
 <item>  
 <title>[COLOR orange]Rádio Intereconomia[/COLOR]</title>
-<link>http://212.85.46.144/siliconorg</link>
+<link>http://212.85.46.144/siliconorg"</link>
 <thumbnail>https://yt3.ggpht.com/-FrXTEARxpok/AAAAAAAAAAI/AAAAAAAAAAA/OwUleyXKMWk/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
