@@ -86,7 +86,7 @@
 <thumbnail>https://raw.githubusercontent.com/CodeDotJS/youtube-playlist/master/media/logo.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/tonywarlley2009/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/user/tonywarlley2009/</jsonrpc>
 </item>
 
 <item>
