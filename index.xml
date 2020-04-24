@@ -94,7 +94,7 @@
 <thumbnail>https://yt3.ggpht.com/a/AATXAJyTuPMyHMWm-hr-ZKxoqBr30G6EAk73YSpdYw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/seemeetube/?page=0</jsonrpc>
+<externallink>Plugin://plugin.video.youtube/user/seemeetube/</externallink>
 </item>
 
 <item>
