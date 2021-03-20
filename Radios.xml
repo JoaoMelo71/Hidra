@@ -44,25 +44,19 @@
 
 <item>  
 <title>[COLOR orange]Rádio Renascença[/COLOR]</title>
-<link>http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC</link>
+<link>https://21283.live.streamtheworld.com/RADIO_RENASCENCA_SC</link>
 <thumbnail>https://lh3.googleusercontent.com/proxy/ZlDaiiHHAjL0tcLe6QGSTwWBmEfkvFHpthS66wXo8Xa2_J03g_QtdqtAMdAtjTVs4UvXtnTNbbl3_xwqUqxUJobkX2s7xIxvUSCh-0Cug_awqMCj9KSmyGqcW5TcXBpRTgOTI5zFYQ9yj7W4dFbKZ8DzfTyu</thumbnail>
 </item>
 
 <item>  
 <title>[COLOR orange]RFM[/COLOR]</title>  
-<link>http://19553.live.streamtheworld.com/RFM_SC</link>
+<link>https://21313.live.streamtheworld.com/RFM_SC</link>
 <thumbnail>https://espalhafactos.com/wp-content/uploads/2013/10/rfm1.jpg</thumbnail>
 </item>
 
 <item>  
-<title>[COLOR orange]RFM 80[/COLOR]</title>  
-<link>http://19573.live.streamtheworld.com/GR80SRFM_SC</link>
-<thumbnail>http://static.radio.de/images/broadcasts/65/d8/18778/c175.png</thumbnail>
-</item>
-
-<item>  
 <title>[COLOR orange]Rádio M80[/COLOR]</title>  
-<link>rtmp://195.23.102.196/m80lc/ playpath=m80lc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/regiao/lisboa/#m80-104-3-fm-lisboa</link>
+<link>https://mcrscast.mcr.iol.pt/m80</link>
 <thumbnail>http://radiosdeportugal.com/wp-content/uploads/2007/11/A-M80-e-a-Radio-Oficial-e-Exclusiva-deste-Carnaval-2009-com-ABBA-GOLD-a-21-de-Fev-no-Pav-Atlantico.jpg</thumbnail>
 </item>
 
